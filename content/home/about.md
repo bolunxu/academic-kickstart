@@ -10,31 +10,43 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Power System",
+    "Energy Market",
+    "Optimization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Electrical Engineering"
+  institution = "University of Washington"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Electrical Engineering"
+  institution = "Swiss Federal Institute of Technology (ETH) Zurich"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Electrical Engineering"
+  institution = "Shanghai Jiaotong University"
+  year = 2011
  
 +++
 
-# Biography
+# About me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral associate at Massachusetts Institute of Technology (MIT), 
+I am affiliated with [MIT Energy Initiative (MITEI)](http://energy.mit.edu/) 
+and [Lab for Info. and Decision Systems (LIDS)](https://lids.mit.edu/), hosted by
+[Dr. Francis O'Sullivan](http://energy.mit.edu/profile/francis-osullivan/) 
+and [Dr. Audun Botterud](http://botterud.mit.edu/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I obtained my PhD in Electrical Engineering from University of Washington, Seattle, adviserd by
+[Prof. Daniel Kirschen](http://labs.ece.uw.edu/real/real_pe.html) and 
+[Prof. Baosen Zhang](https://zhangbaosen.github.io/). 
+My dissertation is on optimal market participation for battery energy storage and you can find it
+[here](https://labs.ece.uw.edu/real/Library/Thesis/Bolun.pdf). 
+Prior to my PhD, I received my master degree in Electrical Engineering from ETH Zurich and 
+my [master thesis](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=0816675AAAFFFB44F5C0BD800A5DCECA?doi=10.1.1.701.3320&rep=rep1&type=pdf)
+was supervised by [Prof. Goran Anderssion](https://www.ethz.ch/content/specialinterest/itet/institute-eeh/psl-ee/en/people/professors-emeritus/Em%20Prof-Dr-Goeran-Andersson.html).
+My CV is [here](files/Xu_CV.pdf).
