@@ -18,7 +18,7 @@ weight = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 1
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
@@ -31,4 +31,8 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-
+Please find some of my pulication highlights. 
+Some data and codes are attached for implementation references.
+See my [CV](files/Xu_CV.pdf) 
+or my [google scholar profile](https://scholar.google.com/citations?user=-85kjPEAAAAJ&hl=en) 
+for a complete list of my publications. 

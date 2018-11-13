@@ -26,7 +26,7 @@ date_format = "January 2006"
   date_start = "2018-08-01"
   date_end = ""
   description = """
-  MIT Energy Intiative
+  I started my postdoc at MIT where I work on 
   """
 
 [[experience]]
