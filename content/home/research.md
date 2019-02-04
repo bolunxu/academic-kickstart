@@ -23,7 +23,7 @@ I'm particularly interested in the following topics.
 
 Energy storage offsets renewable fluctuations and is the key to a low-carbon future,
 but managing these assets at the system level remains an open question. 
-Operators must make real-time dispatch decisions to accommodate instantaneous imbalances,
+Operators must make real-time dispatch decisions to mitigate instantaneous imbalances,
 but also need to consider the value of stored energy in the future. 
 Shaping future insights into a computation-viable 
 form is a challenge that requires efficient operation algorithms and advanced data analytic tools.
